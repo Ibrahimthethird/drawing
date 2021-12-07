@@ -1,0 +1,3 @@
+void Variable() {
+
+}//end varaible()

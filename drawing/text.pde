@@ -1,5 +1,7 @@
 //Glboal variavle
 
-void textQuitButton() {}//End teztQuitButton
+void textQuitButton() {
+}//End teztQuitButton
 
-void text() {}//end text()
+void text() {
+}//end text()
